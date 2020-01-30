@@ -1,5 +1,5 @@
 
-# OracleSQL_class_4
+# SQL-4
 # 4-2 : Number Functions Practice Activities 
 
 # Display Oracle database employee last_name and salary for employee_ids between 100 and 102. 
