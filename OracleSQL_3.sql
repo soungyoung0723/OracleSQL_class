@@ -1,5 +1,6 @@
+# SQL-Lab
 # 3-1
-# OracleSQL_class_3
+# 
 
 # Display the last names of all Global Fast Foods employees who have “e” and “i” in their last names.
 
