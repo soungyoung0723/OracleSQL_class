@@ -1,10 +1,10 @@
 # SQL-Lab
-# 3-1
+# 3-1 logical comparison : AND, OR, NOT
 # 
 
 # Display the last names of all Global Fast Foods employees who have “e” and “i” in their last names.
 
-SELECT last_name aS "Last Name"
+SELECT last_name AS "Last Name"
 FROM employees
 WHERE last_name LIKE '%e%' AND last_name LIKE '%i%'
 
